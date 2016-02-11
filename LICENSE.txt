@@ -1,5 +1,5 @@
 csv
-Copyright (c) 2016 halida
+Copyright (c) 2016 linjunhalida
 
 This package is distributed under the GNU Lesser General Public
 License (LGPL).  This means that you can link csv into proprietary
