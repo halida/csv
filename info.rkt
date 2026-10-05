@@ -1,6 +1,7 @@
 #lang info
 (define collection "csv")
-(define deps '("base"
+(define deps '("htdp-lib"
+               "base"
                "rackunit-lib"))
 (define build-deps '("scribble-lib" "racket-doc"))
 (define scribblings '(("scribblings/csv.scrbl" ())))
